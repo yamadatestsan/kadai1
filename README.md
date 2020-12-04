@@ -21,5 +21,6 @@ This is a kadai1 repository.
 (5)権限を与える $ sudo chmod 666 /dev/myled0
 
 (6)LED点灯 $ echo 1 > /dev/myled0
+
    LED消灯 $ echo 0 > /dev/myled0
 
