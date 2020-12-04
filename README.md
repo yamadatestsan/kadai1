@@ -4,7 +4,7 @@ This is a kadai1 repository.
 コードは授業で作成したLEDを点灯させるコードをそのまま使用しています。
 自分のオリジナリティーとしては、LEDをザクヘッドのモノアイ部分にはめこんで点灯させているところです。
 
-# 使い方
+# 使い方 以下の(1)~(9)の手順で動作します
 (1)$ https://github.com/yamadatestsan/kadai1.git
 (2)$ cd myled/
 (3)$ vi Makefile
