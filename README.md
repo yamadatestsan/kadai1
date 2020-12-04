@@ -11,10 +11,7 @@ This is a kadai1 repository.
 
 (2)ディレクトリを移動 $ cd myled/
 
-(3)コンパイル $ vi Makefile
-             $ make
-             $ vi myled.c             
-             $ make
+(3)コンパイル $ vi Makefile $ make $ vi myled.c $ make
              
 (4) モジュールをロード $ sudo insmod myled.ko
 
