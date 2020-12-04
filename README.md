@@ -7,7 +7,7 @@ This is a kadai1 repository.
 # 使い方 
 以下の(1)~(6)の手順で動作します
 
-(1)リポジトリを複製する $ https://github.com/yamadatestsan/kadai1.git
+(1)リポジトリを複製する $ git clone https://github.com/yamadatestsan/kadai1.git
 
 (2)ディレクトリを移動 $ cd myled/
 
